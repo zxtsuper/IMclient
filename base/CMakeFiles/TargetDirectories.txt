@@ -1,0 +1,1 @@
+/home/www/hotel_project/server_hotel/IPCRobot/base/CMakeFiles/base.dir

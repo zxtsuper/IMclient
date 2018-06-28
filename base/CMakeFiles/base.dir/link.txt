@@ -1,0 +1,2 @@
+/usr/bin/ar cr libbase.a  CMakeFiles/base.dir/BaseSocket.o CMakeFiles/base.dir/imconn.o CMakeFiles/base.dir/ConfigFileReader.o CMakeFiles/base.dir/Thread.o CMakeFiles/base.dir/ThreadPool.o CMakeFiles/base.dir/util.o CMakeFiles/base.dir/netlib.o CMakeFiles/base.dir/EventDispatch.o CMakeFiles/base.dir/ServInfo.o CMakeFiles/base.dir/Lock.o CMakeFiles/base.dir/ImPduBase.o CMakeFiles/base.dir/UtilPdu.o CMakeFiles/base.dir/jsoncpp/json_writer.o CMakeFiles/base.dir/jsoncpp/json_value.o CMakeFiles/base.dir/jsoncpp/json_reader.o
+/usr/bin/ranlib libbase.a
